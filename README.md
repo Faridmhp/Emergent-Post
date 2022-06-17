@@ -9,4 +9,4 @@ either registered users or guests.
 Open with Live Server
 
 
-[My image](Faridmhp.github.com/Loging-Reg-Post-Website/img/Log.JPG)
+[My image](https://github.com/Faridmhp/Loging-Reg-Post-Website/img/Log.JPG)
