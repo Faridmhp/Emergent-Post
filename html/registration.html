@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../css/style.css">
+    <title>Registration Page</title>
+    <script defer src="..\js\reg.js"></script>
+</head>
+
+<body>
+    <div class="container">
+        <form id="reg-form">
+            <h2>Registration Page</h2>
+            <input id="user-input-new" type="text" class="type" placeholder="Username">
+            <br>
+            <input id="email-input-new" type="email" class="type" placeholder="Email">
+            <br>
+            <input id="pass-input-new" type="password" class="type" placeholder="Password">
+            <br>
+            <input id="pass-input-confirm" type="password" class="type" placeholder="Confirm your Password">
+            <br>
+            <br>
+
+            <label for="age-confirm">
+                <input id="age-confirm" type="checkbox" required>
+                Yes, I am 13+ </label>
+            <br>
+            <label for="tos-input-confirm">
+                <input id="tos-input-confirm" type="checkbox" required>
+                By checking the box, you agree to our
+                <a href="#" id="tos-link">TOS and Privacy Rules</a>
+            </label>
+            <br>
+            <br>
+            <button id="reg-btn" type="submit" class="submit" >Submit</button>
+        </form>
+    </div>
+</body>
+
+</html>
