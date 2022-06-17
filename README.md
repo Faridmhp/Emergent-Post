@@ -8,3 +8,5 @@ either registered users or guests.
 ***How it Works***
 Open with Live Server
 
+
+[My image](Faridmhp.github.com/Loging-Reg-Post-Website/img/Log.JPG)
