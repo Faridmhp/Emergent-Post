@@ -9,4 +9,6 @@ either registered users or guests.
 Open with Live Server
 
 
-[My image](https://github.com/Faridmhp/Loging-Reg-Post-Website/blob/master/img/Log.JPG)
+![Alt text](https://github.com/Faridmhp/Loging-Reg-Post-Website/blob/master/img/Log.JPG?raw=true "Login Page")
+![Alt text](https://github.com/Faridmhp/Loging-Reg-Post-Website/blob/master/img/Post.JPG?raw=true "Post Page")
+![Alt text](https://github.com/Faridmhp/Loging-Reg-Post-Website/blob/master/img/Reg.JPG?raw=true "Registration Page")
